@@ -1,0 +1,28 @@
+directions.txt //for CP.go
+Alex Brisbois and Jessica Forrett
+February 24th, 2017
+CSCI 324 Professor King
+
+Installation:
+1. Visit http://golang.org/dl.
+2. Select "Download the Go Distribution".
+3. Choose the version of Go you wish to download that can work on your current platform.
+- For example, I used go1.6.4.windows-amd64 in order to be compatible with Windows.  There are other versions for OS, FreeBSD and Linux.
+4. Go through the Installation Wizard to install Go successfully.
+- It will automatically install Go in the C: directory, but you can change it to another location.
+5. Check your environment variables by going to Control Panel -> System and Security -> System -> Advanced System Settings -> Environment Variables.
+6.  Make sure there is an environment variable added in PATH to go\bin.
+7. Select OK out of Environment Variables.
+8. Download a compatible text editor (this program was created on Atom https://atom.io/)
+9. Install the "go-plus" package within the text editor.
+
+Execution:
+1. Open Command Prompt.
+2. Change directory to the Spell Checker folder.
+3. Type in "dir" to ensure the directory is all set.
+4. Type in "go env" to review the current environment setup.
+5. Type in "set GOPATH = " + filepath from C: to Spell Checker folder.
+6. Type in "set GOBIN = " + filepath from C: to Spell Checker folder + /bin.
+7. Type in "go run src/main/CP.go".
+8. When prompted, type in the location of the text file you wish to review.
+ - For best performance, have your text file located in src/main.

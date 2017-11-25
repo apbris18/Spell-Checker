@@ -1,0 +1,67 @@
+collaboration.txt //for CP.go
+Alex Brisbois and Jessica Forrett
+February 24th, 2017
+CSCI 324 Professor King
+
+A Tour of Go. The Go Programming Language, n.d. Web. 24 Feb. 2017. <https://tour.golang.org/list>.
+Sections:
+- Concurrency -> Channels
+- Basics -> For is Go's "While"
+- Basics -> Slices are like references to arrays
+- Basics -> Basic types
+- Using the tour -> Hello, 世界
+- Methods and Interfaces -> Readers
+
+Chris Hawkes. "Go Programming Tutorial - Installing Go and Our Editors." YouTube. YouTube, 26 June 2015. Web. 24 Feb. 2017.
+<https://www.youtube.com/watch?v=QGgIau3oPmU>.
+
+"Comparison Operators." The Go Programming Language Specification. The Go Programming Language, 18 Nov. 2016. Web. 24 Feb. 2017.
+<https://golang.org/ref/spec#Comparison_operators>.
+
+"Concatenate two slices in Go." Append - Concatenate two slices in Go - Stack Overflow. N.p., n.d. Web. 19 Feb. 2017.
+<http://stackoverflow.com/questions/16248241/concatenate-two-slices-in-go>
+
+Dante, and Jsor. "How to Read Input from Console Line?" Stack Overflow. Stack Exchange Inc., 3 Jan. 2014. Web. 24 Feb. 2017.
+<http://stackoverflow.com/questions/20895552/how-to-read-input-from-console-line>.
+
+"Downloads." The Go Programming Language. N.p., n.d. Web. 24 Feb. 2017. <https://golang.org/dl/>.
+
+Dtrinh100, and IamNaN. "Reading in Very Large Files in Golang." Stack Overflow. Stack Exchange Inc., 4 Apr. 2015. Web. 17 Mar. 2017.
+<http://stackoverflow.com/questions/29442006/reading-in-very-large-files-in-golang>.
+
+"Frequently Asked Questions (FAQ)." The Go Programming Language. N.p., n.d. Web. 16 Apr. 2017.
+<https://golang.org/doc/faq>.
+
+G06lin, and Stefan Arentz. "Reading File Line by Line in Go." Stack Overflow. Stack Exchange Inc., 6 Jan. 2012. Web. 24 Feb. 2017.
+<http://stackoverflow.com/questions/8757389/reading-file-line-by-line-in-go>.
+
+"Getting Started." The Go Programming Language. N.p., n.d. Web. 24 Feb. 2017. <https://golang.org/doc/install>.
+
+The Go Authors. "Src/container/list/list.go." Source File. The Go Programming Language, 2009. Web. 8 Mar. 2017.
+<https://golang.org/src/container/list/list.go?s=1309%3A1486#L38>.
+
+"Go's Declaration Syntax." The Go Blog. The Go Programming Language, 7 July 2010. Web. 16 Apr. 2017.
+<https://blog.golang.org/gos-declaration-syntax>.
+
+Go by Example. N.p., n.d. Web. 21 Feb. 2017.
+<https://gobyexample.com/>
+
+"Golang : Strings to lowercase and uppercase example." SocketLoop. N.p., n.d. Web. 10 Mar. 2017.
+<https://www.socketloop.com/tutorials/golang-strings-to-lowercase-and-uppercase-example>
+
+McGranaghan, Mark. "Reading Files." Go by Example. N.p., n.d. Web. 24 Feb. 2017.
+<https://gobyexample.com/reading-files>.
+
+Roylee0704. "Roylee0704/go-bst." GitHub. GitHub, Inc., 25 Apr. 2016. Web. 24 Apr. 2017. <https://github.com/roylee0704/go-bst/blob/master/main.go>.
+
+Sharma, Kshitiz, and Simone Carletti. "How Do I Check for an Empty Slice?" Stack Overflow. Stack Exchange Inc., 1 July 2016. Web.
+17 Mar. 2017. <http://stackoverflow.com/questions/38144050/how-do-i-check-for-an-empty-slice>.
+
+"Slice Types." The Go Programming Language Specification. The Go Programming Language, 18 Nov. 2016. Web. 24 Feb. 2017.
+<https://golang.org/ref/spec#Slice_types>.
+
+User977828, and PeterSO. "How to Index Characters in a Golang String?" Stack Overflow. Stack Exchange Inc., 22 Feb. 2013. Web. 17 Mar. 2017.
+<http://stackoverflow.com/questions/15018545/how-to-index-characters-in-a-golang-string>.
+
+Vderyagin. "Quick sort implementation in Golang." Gist. N.p., n.d. Web. 20 Feb. 2017.
+<https://gist.github.com/vderyagin/4161347>
